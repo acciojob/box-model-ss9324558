@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-.layout{
+.container{
 	height:250px;
 	border-radius:25px;
 	border:2px solid black;
@@ -8,24 +8,24 @@
 	align-content: center;
     flex-wrap: wrap;
 	justify-content:center;
-	background:gray;
+	background-color:gray;
 }
 .green{
-	color:rgb(0, 128, 0);
+	background-color:green;
 	width:100px;
 	height:100px;
 	border-radius:50%;
 	margin:10px;
 }
 .yellow{
-	 color:rgb(255, 255, 0);
+	background-color:yellow;
 	width:100px;
 	height:100px;
 	border-radius:50%;
 	margin:10px;
 }
 .red{
-	color:rgb(255, 0, 0);
+	background-color:red;
 	width:100px;
 	height:100px;
 	border-radius:50%;
